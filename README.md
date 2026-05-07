@@ -24,15 +24,36 @@ This project analyzes payroll data to identify financial risk exposure and highl
 ### 🛠 Tools Used
 - Power BI  
 - DAX  
-- Excel  
+- Excel
+- Tableau
+- Data Visualization
+- Payroll Analytics  
 
 ---
 
 ### 📂 Files
 - Payroll Audit Dataset.pbix → Dashboard  
-- Payroll_Audit_Dataset.xlsx → Dataset  
+- Payroll_Audit_Dataset.xlsx → Dataset
+
+
+---
+
+## Tableau Dashboard Version
+
+Built an interactive Tableau dashboard to analyze payroll exposure and identify departments with the highest financial risk concentration.
+
+### Tableau Features
+- Payroll risk distribution by risk level
+- Department-level exposure analysis
+- Interactive dashboard visuals
+- Financial exposure insights
+
+### Tableau Files
+- Payroll_Risk_Analytics_Dashboard.twbx → Tableau Dashboard
 
 ---
 
 ### 💡 Business Impact
 This dashboard enables targeted risk mitigation by focusing on departments with the highest financial risk exposure.
+
+
